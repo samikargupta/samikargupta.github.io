@@ -67,6 +67,10 @@ h1 {
     width: 100%;
 }
 
+.icons{
+	position: fixed;
+}
+
 .sami {
 	padding-top: 35%;
 }
