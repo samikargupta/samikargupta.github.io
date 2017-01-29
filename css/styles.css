@@ -70,6 +70,16 @@ h1 {
 .sami {
 	padding-top: 35%;
 }
+
+.vcenter-2 {
+    position: absolute;
+    top: 120%; left: 40%;
+    transform: translate(-50%,-50%);
+    height: 90%;
+    width: 100%;
+}
+
+
  /*background-color: red;
     background-size: 50%;
 	background-size: 3em;
