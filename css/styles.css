@@ -60,8 +60,8 @@ h1 {
 }
 
 .vcenter {
-    position: absolute;
-    top: 100%; left: 40%;
+    position: fixed;
+    top: 90%; left: 55%;
     transform: translate(-50%,-50%);
     height: 90%;
     width: 100%;
@@ -69,14 +69,6 @@ h1 {
 
 .sami {
 	padding-top: 35%;
-}
-
-.vcenter-2 {
-    position: absolute;
-    top: 120%; left: 40%;
-    transform: translate(-50%,-50%);
-    height: 90%;
-    width: 100%;
 }
 
 
