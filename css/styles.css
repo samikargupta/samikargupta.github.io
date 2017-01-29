@@ -1,0 +1,74 @@
+.camera-logo {
+	height: 75px;
+	width: 75px;
+	margin-left: -70px;
+	background-color: blueviolet;
+	border-radius: 10px;
+}
+
+.book-icon {
+	height: 75px;
+	width: 75px;
+	margin-left: -70px;
+	background-color: chartreuse;
+	border-radius: 10px;
+}
+
+.swords {
+	height: 75px;
+	width: 75px;
+	margin-left: -70px;
+	background-color: red;
+	border-radius: 10px;
+}
+
+.guitar {
+	height: 75px;
+	width: 75px;
+	margin-left: -70px;
+	background-color: gold;
+	border-radius: 10px;
+}
+
+.icon-margin {
+	height: 75px;
+	width: 75px;
+	margin-top: 65px;
+	margin-left: -10px;
+}
+
+h1 {
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 60px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.kargupta-span {
+	margin-left: 60px;
+}
+
+/*.name-margin {
+	margin-top: 300px;
+}
+*/
+.zencircle {
+	height: 50px;
+	width: 50px;
+}
+
+.vcenter {
+    position: absolute;
+    top: 100%; left: 40%;
+    transform: translate(-50%,-50%);
+    height: 90%;
+    width: 100%;
+}
+
+ /*background-color: red;
+    background-size: 50%;
+	background-size: 3em;
+	background-size: 12px;
+	background-size: auto;*/
